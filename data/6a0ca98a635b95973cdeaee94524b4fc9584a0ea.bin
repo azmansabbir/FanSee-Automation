@@ -1,0 +1,7 @@
+
+<--- Last few GCs --->
+
+[5512:000002059487E7D0]   227581 ms: Mark-sweep 44.2 (58.1) -> 36.4 (39.6) MB, 61.4 / 0.1 ms  (average mu = 0.998, current mu = 0.999) external memory pressure GC in old space requested
+[5512:000002059487E7D0]   227609 ms: Scavenge 44.7 (47.9) -> 44.7 (47.9) MB, 0.5 / 0.0 ms  (average mu = 0.998, current mu = 0.999) allocation failure 
+[5512:000002059487E7D0]   227620 ms: Scavenge 48.3 (51.4) -> 48.3 (51.4) MB, 0.7 / 0.0 ms  (average mu = 0.998, current mu = 0.999) allocation failure 
+
