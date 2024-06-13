@@ -1,0 +1,7 @@
+
+<--- Last few GCs --->
+of marking, biggest step 0.2 ms, walltime since start of marking 41 ms) (average mu = 0.998, current mu = 0.999) finali[5344:00000190C8BB5EB0]   163209 ms: Mark-sweep (reduce) 37.1 (40.1) -> 36.8 (39.8) MB, 15.9 / 0.0 ms  (+ 0.1 ms in 2 steps since start of marking, biggest step 0.1 ms, walltime since start of marking 56 ms) (average mu = 0.997, current mu = 0.987) finali[5344:00000190C8BB5EB0]   163217 ms: Scavenge 37.7 (39.8) -> 37.0 (39.8) MB, 3.2 / 0.0 ms  (average mu = 0.997, current mu = 0.987) task 
+
+
+<--- JS stacktrace --->
+
