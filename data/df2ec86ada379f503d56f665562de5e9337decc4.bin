@@ -1,0 +1,5 @@
+
+<--- Last few GCs --->
+
+[5252:000001EEBC66F8F0]   257157 ms: Scavenge 46.3 (48.9) -> 46.3 (49.9) MB, 0.7 / 0.0 ms  (average mu = 0.383, current mu = 0.001) allocation failure 
+
