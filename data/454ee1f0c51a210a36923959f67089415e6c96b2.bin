@@ -1,0 +1,19 @@
+ 1: 00007FF69735158F v8::internal::CodeObjectRegistry::~CodeObjectRegistry+122159
+ 2: 00007FF6972DB326 DSA_meth_get_flags+64118
+ 3: 00007FF6972DC3A2 DSA_meth_get_flags+68338
+ 4: 00007FF697C12374 v8::Isolate::ReportExternalAllocationLimitReached+116
+ 5: 00007FF697BFC93D v8::SharedArrayBuffer::Externalize+781
+ 6: 00007FF697A9FEBC v8::internal::Heap::EphemeronKeyWriteBarrierFromCode+1468
+ 7: 00007FF697AA9BDF v8::internal::Heap::PageFlagsAreConsistent+3007
+ 8: 00007FF697A9C799 v8::internal::Heap::CollectGarbage+2137
+ 9: 00007FF697A4D7C5 v8::internal::IndexGenerator::~IndexGenerator+22165
+10: 00007FF6972700BD node::TriggerNodeReport+53325
+11: 00007FF69726E8B6 node::TriggerNodeReport+47174
+12: 00007FF6973AF2CB uv_async_send+331
+13: 00007FF6973AEA5C uv_loop_init+1292
+14: 00007FF6973AEBFA uv_run+202
+15: 00007FF69737DD05 node::SpinEventLoop+325
+16: 00007FF6972942B1 cppgc::internal::Marker::visitor+57937
+17: 00007FF6973132DA node::Start+202
+18: 00007FF69713870C RC4_options+347660
+19: 00007FF698197CD8 v8::internal::compiler::RepresentationChanger::Uint32OverflowOperatorFor+14520

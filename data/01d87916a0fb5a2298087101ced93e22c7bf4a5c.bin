@@ -1,0 +1,10 @@
+
+<--- Last few GCs --->
+
+[5028:000001C5CE9F3D40]   202390 ms: Scavenge 38.1 (40.6) -> 37.5 (40.6) MB, 0.8 / 0.0 ms  (average mu = 0.997, current mu = 0.999) allocation failure 
+[5028:000001C5CE9F3D40]   202855 ms: Scavenge 38.3 (40.6) -> 37.5 (40.6) MB, 22.9 / 0.0 ms  (average mu = 0.997, current mu = 0.999) allocation failure 
+[5028:000001C5CE9F3D40]   202861 ms: Scavenge 38.2 (40.6) -> 37.5 (40.6) MB, 0.5 / 0.0 ms  (average mu = 0.997, current mu = 0.999) task 
+
+
+<--- JS stacktrace --->
+
